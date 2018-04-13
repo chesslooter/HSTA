@@ -12,7 +12,7 @@ This repo contains our desktop client. Follow the instructions related to using 
 https://github.com/jcordell/hsta-server
 This repo contains all of the code for our server back-end, which is deployed using Heroku.
 Testing:
-  Pull down the master branch. Ensure that node is installed. In a terminal in the root directory, execute the command "npm install". After the modules install, run the command "npm test". This will run through the suite of tests we have prepared.
+  Pull down the master branch. Ensure that node is installed. Ensure that my-sql is installed (https://dev.mysql.com/downloads/), and connects to User root. Password is Badgers1!. In a terminal in the root directory, execute the command "npm install". After the modules install, run the command "npm test". This will run through the suite of tests we have prepared.
 
 
 In order to use our app yourself:
