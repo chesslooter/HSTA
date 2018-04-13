@@ -10,6 +10,7 @@ https://github.com/chesslooter/hsta-desktop
 This repo contains our desktop client. Follow the instructions related to using the app yourself in order to test this portion.
 
 https://github.com/jcordell/hsta-server
+Use the 3b71aae commit on the master branch for testing.
 This repo contains all of the code for our server back-end, which is deployed using Heroku.
 Testing:
   Pull down the master branch. Ensure that node is installed. Ensure that my-sql is installed (https://dev.mysql.com/downloads/), and connects to User root. Password is Badgers1!. In a terminal in the root directory, execute the command "npm install". After the modules install, run the command "npm test". This will run through the suite of tests we have prepared.
