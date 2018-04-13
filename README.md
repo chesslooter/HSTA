@@ -17,7 +17,7 @@ Testing:
 
 In order to use our app yourself:
 
-Download our client from (https://github.com/chesslooter/hsta-desktop) (Iter2 Desktop branch, commit d4348aeffc2ce0c56cc9b80f21428afb338d1630 ) 
+Download our client from (https://github.com/chesslooter/hsta-desktop) (Iter2 Desktop branch, commit 3e29a0aff88cba49664e484ae24f15a2a5bcb7a6 ) 
 
 Install node (npm comes with) 
 
