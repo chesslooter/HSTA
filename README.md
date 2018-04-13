@@ -17,7 +17,7 @@ Testing:
 
 In order to use our app yourself:
 
-Download our client from (https://github.com/chesslooter/hsta-desktop) (Iter2 Desktop branch) 
+Download our client from (https://github.com/chesslooter/hsta-desktop) (Iter2 Desktop branch, commit d4348aeffc2ce0c56cc9b80f21428afb338d1630 ) 
 
 Install node (npm comes with) 
 
@@ -30,6 +30,7 @@ Ensure your Hearthstone account is eligible to play against other players.
 In Hearthstone, create a deck you wish to use. 
 
 Using a terminal, in /hsta-desktop/desktop/HSDesktopClient/, use the command npm install, followed by npm run electron-build
+Also run npm install in /hsta-desktop/desktop/LogHandler/
 
 Once running, note that our server can take 30-45 seconds to start after hitting “Login” if it has not been used recently.
 
