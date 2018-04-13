@@ -4,15 +4,18 @@ Developed for CS 506 at The University of Wisconsin-Madison
 There are three separate distinct repos containing the project.
 
 https://github.com/chesslooter/hsta-web
-This repo contains all of the source code for the web client of our application. You can view the site at chesslooter.github.io/hsta-web.
+This repo contains all of the source code for the web client of our application. You can view the site at chesslooter.github.io/hsta-web, and test it from there.
 
 https://github.com/chesslooter/hsta-desktop
-This repo contains our desktop client.
+This repo contains our desktop client. Follow the instructions related to using the app yourself in order to test this portion.
 
 https://github.com/jcordell/hsta-server
 This repo contains all of the code for our server back-end, which is deployed using Heroku.
+Testing:
+  Pull down the master branch. Ensure that node is installed. In a terminal in the root directory, execute the command "npm install". After the modules install, run the command "npm test". This will run through the suite of tests we have prepared.
 
 
+In order to use our app yourself:
 
 Download our client from (https://github.com/chesslooter/hsta-desktop) (Iter2 Desktop branch) 
 
