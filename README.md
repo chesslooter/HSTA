@@ -15,15 +15,27 @@ This repo contains all of the code for our server back-end, which is deployed us
 
 
 Download our client from (https://github.com/chesslooter/hsta-desktop) (Iter2 Desktop branch) 
+
 Install node (npm comes with) 
+
 Install Hearthstone (via battle.net)
+
 Install Hearthstone Deck Tracker (https://hsdecktracker.net/) 
+
 Ensure your Hearthstone account is eligible to play against other players. 
+
 In Hearthstone, create a deck you wish to use. 
+
 Using a terminal, in /hsta-desktop/desktop/HSDesktopClient/, use the command npm install, followed by npm run electron-build
+
 Once running, note that our server can take 30-45 seconds to start after hitting “Login” if it has not been used recently.
+
 Right click your deck and select the option to generate a deck link. (https://www.youtube.com/watch?v=kmXPpJosR7E decklist copying example)
+
 Log in to our app. 
+
 Using the add deck feature, copy the link to your deck provided in game to add a deck to your account. 
+
 Using that deck, queue up for a game and press the start validation button. 
+
 Enjoy losing to somebody who knows how to play the game. Or just concede, clicking the gear in the lower right hand corner to bring up the menu. 
